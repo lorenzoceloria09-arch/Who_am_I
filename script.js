@@ -8,9 +8,9 @@ const CONFIG = {
 
   bio: [
     'Sono uno sviluppatore software con la passione di creare nuovi siti <span class="tok-string">puliti</span>, <span class="tok-string">performanti</span> e che siano coinvolgenti fino alla fine.',
-    'Mi piace lavorare <span class="tok-keyword">full-stack</span>: dal database alla UI, passando per API e architettura.',
-    'Quando non scrivo codice, probabilmente sto leggendo documentazione, sperimentando un nuovo framework o bevendo troppo caffè. ☕',
-    'Credo nel codice leggibile, nei commit ben scritti e nel non fare mai il <span class="tok-keyword">deploy</span> di venerdì alle 18:00.'
+    'Mi piace ingegnarmi <span class="tok-keyword">ogni volta</span>: dal database fino alla UI, mi diverto specialmente nel creare e disegnare nuove interfacce grafiche.',
+    'Quando non scrivo codice, probabilmente sto cercando di capirlo, sperimentando nuove linee di codice o dormendo.',
+    'Credo nel codice leggibile, cercando di commentarlo il <span class="tok-keyword">meglio possibile</span> e non arrivare mai sempre con gli stessi risultati di quando ho iniziato.'
   ],
 
   skills: [
